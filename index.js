@@ -1,8 +1,8 @@
 let animal = ""
 
-function myAnimal() {
+function myAnimal(dog) {
   return animal;
-}yourAnimal(dog);
+} 
 
 function yourAnimal(cat) {
   // How can we make sure that this function
@@ -10,7 +10,7 @@ function yourAnimal(cat) {
   // P.S.: You can't just hard-code 'cat' below
   return animal
 }
- yourAnimal(cat);
+ 
 
 function add2(n) {
   const  two = 2;

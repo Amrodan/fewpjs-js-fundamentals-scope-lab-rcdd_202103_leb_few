@@ -2,7 +2,7 @@ let animal = ""
 
 function myAnimal() {
   return animal;
-}
+}yourAnimal(dog);
 
 function yourAnimal() {
   // How can we make sure that this function

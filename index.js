@@ -9,7 +9,8 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
   return animal
-} yourAnimal(dog);
+}
+ yourAnimal(cat);
 
 function add2(n) {
   const  two = 2;
